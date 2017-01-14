@@ -19,6 +19,8 @@ I used markdown to format this one page, below a fast guide to that.
 
 
 ANY SUGGESTIONS WELCOME!
+For example we could add a page for PC/MAC stuff, or one for Sublime and one for atom (lessons, shortcuts, cheatsheets)
+or we can do it some other way!
 
 
 ### Markdown info
