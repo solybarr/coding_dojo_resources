@@ -1,1 +1,24 @@
-Alt-H1 Resources found on the Platform Lessons
+Resources found on the Platform Lessons
+======
+
+HTML
+
+
+
+CSS
+
+
+
+
+
+
+
+TOOLS
+======
+
+Atom
+
+
+Sublime Text
+
+
